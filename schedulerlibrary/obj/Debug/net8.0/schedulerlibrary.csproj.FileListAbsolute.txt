@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.AssemblyInfo.cs
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\schedulerlibrary\bin\Debug\net8.0\schedulerlibrary.deps.json
+C:\Users\HP\source\repos\schedulerlibrary\bin\Debug\net8.0\schedulerlibrary.dll
+C:\Users\HP\source\repos\schedulerlibrary\bin\Debug\net8.0\schedulerlibrary.pdb
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.dll
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\refint\schedulerlibrary.dll
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\schedulerlibrary.pdb
+C:\Users\HP\source\repos\schedulerlibrary\obj\Debug\net8.0\ref\schedulerlibrary.dll
